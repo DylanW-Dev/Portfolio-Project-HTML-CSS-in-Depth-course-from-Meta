@@ -80,17 +80,6 @@ This homepage embodies the brand’s aesthetic: **luxurious, elegant, modern, an
 
 ---
 
-## 📸 Screenshots (Optional)
-
-Add your project screenshots here:
-
-```
-![alt text](image-1.png)
-![alt text](image.png)
-```
-
----
-
 ## 📂 Folder Structure
 
 ```
